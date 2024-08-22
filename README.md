@@ -1,2 +1,2 @@
 # Hospital-Management-System
-This is an Java JDBC Project
+This Project is a Java JDBC Project
