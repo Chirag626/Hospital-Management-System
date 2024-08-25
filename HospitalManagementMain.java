@@ -11,7 +11,7 @@ public class HospitalManagementMain
 {
     private static final String URL = "jdbc:mysql://localhost:3306/Hospital";
     private static final String Username = "root";
-    private static final String Password = "";
+    private static final String Password = ""; // here you can enter your Database Password..
 
     public static void main(String[] args) {    
         try {
